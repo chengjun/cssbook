@@ -7,7 +7,6 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="/cssbook/assets/css/vue.css">
-  <link rel="stylesheet" href="/cssbook/assets/css/gitalk.css">
   <script>
       var _hmt = _hmt || [];
       (function() {
@@ -21,14 +20,6 @@
 <body>
 <div id="app"></div>
 <script>
-    var gitalkConfig = {
-      clientID: 'Ov23liXABoDURCqZ64mm',
-      clientSecret: 'dffb002522929bf8810cec0ef5742fc87ba81424',
-      repo: 'cssbook',
-      owner: 'chengjun',
-      admin: ["chengjun"],
-      distractionFreeMode: false
-    };
     window.$docsify = {
       name: 'chengjun',
       repo: 'https://github.com/chengjun/cssbook/',
@@ -62,17 +53,7 @@
             ).forEach(function(ele) {
               ele.remove();
             });
-      
-            divEle = domObj.create("div");
-            divEle.id = "gitalk-container-" + label;
-            divEle.className = "gitalk-container";
-            divEle.style = "width: " + main.clientWidth + "px; margin: 0 auto 20px;";
-            domObj.appendTo(domObj.find(".content"), divEle);
-            gitalk = new Gitalk(
-              Object.assign(gitalkConfig, { id: !label ? "home" : label })
-            );
-            gitalk.render("gitalk-container-" + label);
-          });
+                });
         }
       ]
     }                                 
@@ -80,7 +61,6 @@
 
 <script src="/cssbook/assets/js/md5.js"></script>
 <script src="/cssbook/assets/js/docsify.min.js"></script>
-<script src="/cssbook/assets/js/gitalk.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
 <script src="/cssbook/assets/js/docsify-pagination.min.js"></script>
 <script src="/cssbook/assets/js/zoom-image.js"></script>
