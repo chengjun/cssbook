@@ -1,4 +1,4 @@
-# 使用 docsify搭建在线图书！ 🔥
+# 使用 docsify.js搭建在线图书！ 🔥
 
 
 STEP 1.  Fork然后修改settings
