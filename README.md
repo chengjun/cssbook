@@ -1,6 +1,10 @@
 # 使用 docsify搭建在线图书！ 🔥
 
-只需要修改index.html文件当中的assets部分的链接
+
+STEP 1.  Fork然后修改settings
+- pages --- branch 部分，将/(root)改为/docs
+
+STEP 2. 需要修改index.html文件当中的assets部分的链接
 - 我的repo名为cssbook
 - 将assets前面添加 /cssbook/assets/
 
