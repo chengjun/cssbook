@@ -1,5 +1,6 @@
 # 使用 docsify.js搭建在线图书！ 🔥
 
+特点：纯粹Github网页端操作
 
 STEP 1.  Fork然后修改settings
 - pages --- branch 部分，将/(root)改为/docs
