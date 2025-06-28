@@ -43,6 +43,7 @@
 - 三、小组项目（40%）
 - 四、个人项目（10%）
 
+[✏️更新内容](https://github.com/chengjun/cssbook/edit/main/docs/README.md)
 
 
 ### **总结**
