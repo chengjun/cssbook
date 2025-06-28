@@ -1,8 +1,6 @@
 ![logo](_media/logo.png)
 
-# CSSBOOK
-
-## 《计算社会科学导论》
+# 《数智传播导论》
 
 - 本项目基于 docsify 构建
     
