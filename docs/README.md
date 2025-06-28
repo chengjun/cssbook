@@ -24,6 +24,8 @@
 
 注：课程并不讲授编程。所有编程内容都可以借助于大语言模型来自学。课程建议学生通过大语言模型来解释、修改甚至直接编写代码 ⚠️
 
+![image](https://github.com/user-attachments/assets/4514fad1-9ccd-4fd5-ac29-601667a079f4)
+
 
 ## 课程内容
 
