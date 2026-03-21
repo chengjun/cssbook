@@ -1,62 +1,122 @@
-# 《数智传播导论》实验手册 🔥
+# Human Communication as Narration: Toward a Philosophy ofReason, Value, and Action  🔥
 
 
-课程名：数智传播导论 （Digital-Intelligent Communication: An Introduction）
-
-- 《数智传播导论》05000770 周二 7-8节 1-16周 基础实验楼乙109 [代码仓库](https://github.com/SocratesAcademy/css/)、[课程网站](https://chengjun.github.io/cssbook/)
+by Walter R. Hsher
 
 
-《数智传播导论》（原名：计算社会科学导论）是一门融合了传播学、计算机科学、数学、统计学的交叉学科，它借助计算技术和数据科学方法来研究传播现象、社会行为及社会系统的运行规律。
-- 数智传播课程紧密贴合数智时代发展需求，将前沿人工智能技术深度融入智能与计算传播教学，以智能技术赋能课堂教学。
-- 通过技术创新拓展了传播学的研究边界，不仅为理解传播现象提供了新工具，也为政策制定、公共管理等实践领域提供了数据支撑和决策依据。
-- 随着数据技术与计算能力的进步，数智传播将在解决社会问题中发挥更重要的作用。
+## CONTENTS
 
+Foreword ix
 
-## 核心特征
+Preface xi
 
-- 一、以理论为体，计算中心论作为理论框架
-- 二、以实践为用，50%时间用来课堂实战
-- 三、以问题为导向，通过案例分析
-- 四、以论文为引导，强调人机合作
-- 五、以数据为支撑，突出公共价值
-- 六、以计算为方法，不断迭代发展
-- 七、以智能为愿景，彰显人文关怀
+Part I The Historical Exigence
 
-注：课程并不讲授编程。所有编程内容都可以借助于大语言模型来自学。课程建议学生通过大语言模型来解释、修改甚至直接编写代码 ⚠️
+1. In the Beginning
 
-![image](https://github.com/user-attachments/assets/4514fad1-9ccd-4fd5-ac29-601667a079f4)
+   From Philosophy to Technical Discourse 
 
+   Voices on Behalf of Poetic
 
-## 课程内容
+   Voices on Behalf of Rhetoric 
 
-注：现在这个内容对于大语言模型（llm）的关注仍然不够 ，一种思路是弱化因果推断 ⚠️
+   Conclusion
 
-- 第1周	2	课程简介+计算软件	课堂授课+上机练习	
-- 第2周	2	理论部分之大数据+读取大数据	课堂授课+上机练习	
-- 第3周	2	理论部分之数智时代的调查+分析调查数据	课堂授课+上机练习	
-- 第4周	2	理论部分之数智时代的实验+经典复刻	课堂授课+上机练习	
-- 第5周	2	因果推断1+经典复刻	课堂授课+上机练习	
-- 第6周	2	因果推断2+经典复刻	课堂授课+上机练习	
-- 第7周	2	因果推断3+经典复刻	课堂授课+上机练习	
-- 第8周	2	因果推断4+经典复刻	课堂授课+上机练习	
-- 第9周	2	计算叙事传播+ Q&A	课堂授课+上机练习	
-- 第10周	2	机器学习1+经典复刻	课堂授课+上机练习	
-- 第11周	2	机器学习2+经典复刻	课堂授课+上机练习	
-- 第12周	2	机器学习3+经典复刻	课堂授课+上机练习	
-- 第13周	2	机器学习4+经典复刻	课堂授课+上机练习	
-- 第14周	2	深度学习1+经典复刻	课堂授课+上机练习	
-- 第15周	2	深度学习2+经典复刻	课堂授课+上机练习	
-- 第17周	2	柏拉图研讨会:小组项目	分享+讨论	
-- 第18周	2	课程总结+个人项目	课堂授课+上机练习	
+2. The Connection with Logic 24 
 
-## 考核方式
+   Dialogue, Dialectic, and Logic
 
-多样化、过程性、综合化，非标准答案
+   Aristotle: The Beginnings ofTechnical and Rhetorical Logic
 
-- 一、课程参与（10%）
-- 二、上机练习（40%）
-- 三、小组项目（40%）
-- 四、个人项目（10%）
+   Technical Logic: Handmaiden of Learned Discourse 
+
+   Rhetorical Logic: Handmaiden of Public Discourse 
+
+   From Geometry and Mathematics to Language and Jurisprudence
+
+   Narrative Rationality as a Rhetorical Logic 
+
+   Conclusion
+
+   
+
+Part II The Narrative Paradigm and Related Theories
+
+3. Narration as a Paradigm of Human Communication 57
+
+   The Rational-World Paradigm
+
+   The Narrative Paradigm
+
+   A Case: Public Moral Argument
+
+   Conclusion
+
+5. An Elaboration 85 
+
+   Relationships to Other Theories
+
+   Social-Scientific Theories and the Narrative Paradigm 
+
+   Humanistic Theories and the Narrative Paradigm 
+
+   Conclusion
+
+Part III Narrative Rationality, Good Reasons, and Audiences
+
+5. Assessing Narrative Fidelity: The Logic of Good Reasons 105
+
+   The Meaning of “Logic”
+    Good Reasons
+    The Logic of Good Reasons
+    Criterial Analysis
+    Hierarchies ofValues
+    Rationality and Rhetorical Competence Conclusion .
+
+6. Narrative Rationality and Qualities ofAudiences 124 
+
+    Philosophical, Political, and Personal Characteristics of Audiences
+    Justice: The Motivational Characteristic
+    Critical Rationalism: The Competence Characteristic/
+
+   Concepts ofAudiences Reconsidered Conclusion
+
+Part IV Applications
+
+7. Narrativity and Politics: The Case of Ronald Reagan 143 
+
+   Reagan’s Rhetoric
+
+   Reagan’s Story
+
+   Reagan’s Character
+
+   Reagan’s Implied Audience 
+
+   Conclusion
+
+8. Argument in Drama and Literature 158 
+
+   Rhetoric, Poetic, and Aesthetic Proof
+
+   Argument in Death ofa Salesman
+
+   Argument in The Great Gatsby
+
+   Conclusion
+
+9. Choosing between Socrates and Callicles: An Assessment ofPhilosophical Discourse 180 
+
+    Socrates’ Story
+    Callicles Story
+    Choosing between Socrates and Callicles
+    Conclusion
+
+10. In Retrospect 192
+
+Author Index 195 
+
+Subject Index 199
 
 [✏️更新内容](https://github.com/chengjun/cssbook/edit/main/docs/README.md)
 
